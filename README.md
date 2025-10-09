@@ -10,17 +10,17 @@ My focus: **scalability, clean architecture, CI/CD automation**, e a interseçã
 
 ## 🧰 Main Languages and Tech Stack
 
-| Main Languages          | Frontend        | Mobile       | Backend           | Databases            | Blockchain          | DevOps      |
-| ----------------------- | --------------- | ------------ | ----------------- | -------------------- | ------------------- | ----------- |
-| JavaScript • TypeScript | Next.js • React | React Native | Node.js • Express | MongoDB • PostgreSQL | Ethereum • Solidity | Git • Linux |
+| Main Languages        | Frontend                                  | Mobile       | Backend           | Databases            | Blockchain          | DevOps      |
+| --------------------- | ----------------------------------------- | ------------ | ----------------- | -------------------- | ------------------- | ----------- |
+| Next.js • React • React Native • Node.js • Express | Next.js • React | React Native | Node.js • Express | MongoDB • PostgreSQL | Ethereum • Solidity | Git • Linux |
 
 ---
 
 ## 📊 GitHub Stats
 
-| Top Languages                                                                                                                                         | GitHub Stats                                                                                                                | Streak                                                                                                              |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
-| <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tiagosousa10&show_icons=true&locale=en&layout=compact" alt="Top Languages" /> | <img src="https://github-readme-stats.vercel.app/api?username=tiagosousa10&show_icons=true&locale=en" alt="GitHub Stats" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=tiagosousa10&theme=default" alt="GitHub Streak" /> |
+| Top Languages                                                                                                                                          | Streak                                                                                                              |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------- |
+| <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tiagosousa10&show_icons=true&locale=en&layout=compact" alt="Top Languages" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=tiagosousa10&theme=default" alt="GitHub Streak" /> |
 
 ---
 

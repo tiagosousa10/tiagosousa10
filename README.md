@@ -8,11 +8,11 @@ My focus: **scalability, clean architecture, CI/CD automation**, e a interseçã
 
 ---
 
-## 🧰 Tech Stack
+## 🧰 Main Languages and Tech Stack
 
-| Frontend                                        | Mobile       | Backend           | Databases            | Blockchain          | DevOps              |
-| ----------------------------------------------- | ------------ | ----------------- | -------------------- | ------------------- | -------------------------- |
-| JavaScript • TypeScript • React • Next.js   | React Native | Node.js • Express | MongoDB • PostgreSQL | Ethereum • Solidity | Git • Linux |
+| Main Languages          | Frontend        | Mobile       | Backend           | Databases            | Blockchain          | DevOps      |
+| ----------------------- | --------------- | ------------ | ----------------- | -------------------- | ------------------- | ----------- |
+| JavaScript • TypeScript | Next.js • React | React Native | Node.js • Express | MongoDB • PostgreSQL | Ethereum • Solidity | Git • Linux |
 
 ---
 

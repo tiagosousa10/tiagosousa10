@@ -15,7 +15,7 @@ Additionally, I experiment with **AI Agents** and leverage creative libraries su
       src="https://custom-icon-badges.demolab.com/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white&labelColor=30363d"
     />
   </a>
-  <a href="#" target="_blank">
+  <a href="https://www.linkedin.com/in/tiago-sousa10/" target="_blank">
     <img 
       alt="LinkedIn" 
       title="Connect with me on LinkedIn" 

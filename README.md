@@ -8,7 +8,7 @@ My focus is on **scalability, clean architecture, CI/CD automation**, and the in
 Additionally, I experiment with **AI Agents** and leverage creative libraries such as **GSAP** and **Three.js** to craft dynamic, interactive user experiences.
 
 <p align="left" style="display: flex; gap: 20px; flex-wrap: wrap;">
-  <a href="#" target="_blank">
+  <a href="https://portfolio-phi-pearl-u5u3mennpf.vercel.app/" target="_blank">
     <img 
       alt="Portfolio" 
       title="Visit my Portfolio" 

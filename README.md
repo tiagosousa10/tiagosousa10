@@ -29,7 +29,7 @@ I'm also specialized as a **`MERN & Next.js Full Stack Developer`**, **`React Na
 
 | Main Languages          | Frontend        | Mobile       | Backend           | Databases            | Blockchain          | DevOps                                                  |
 | ----------------------- | --------------- | ------------ | ----------------- | -------------------- | ------------------- | ------------------------------------------------------- |
-| JavaScript • TypeScript • Java • C#  | Next.js • React • Angular | React Native | Node.js • Express * Spring Boot | MongoDB • PostgreSQL * MySQL | Ethereum • Solidity | Docker • Kubernetes • Vagrant • Terraform • Git • Linux |
+| JavaScript • TypeScript • Java • C#  | Next.js • React • Angular | React Native | Node.js • Express • Spring Boot | MongoDB • PostgreSQL • MySQL | Ethereum • Solidity | Docker • Kubernetes • Vagrant • Terraform • Git • Linux |
 
 ---
 

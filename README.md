@@ -2,10 +2,9 @@
 
 **`Full-Stack & Smart Contract Developer`**
 
-I'm a **JavaScript & TypeScript developer**, specialized as a **MERN & Next.js Full Stack Developer**, **React Native mobile developer**, and **DevOps + Blockchain enthusiast**.  
-I build modern web and mobile applications using **React, React Native, Node.js, Express, and MongoDB**, and also develop **Smart Contracts in Solidity** for the **Ethereum ecosystem**.  
-My focus is on **scalability, clean architecture, CI/CD automation**, and the intersection of **web, mobile, and decentralized technologies** to create efficient, production-ready solutions.  
-Additionally, I experiment with **AI Agents** and leverage creative libraries such as **GSAP** and **Three.js** to craft dynamic, interactive user experiences.
+I'm a **`Junior Full Stack Developer`** focused on **`Java`**, **`JavaScript`**, and **`TypeScript`**. 
+I work with **`Spring Boot`** and **`Node.js`** on the backend, and with **`Angular`**, **`React`**, and **`Next.js`** on the frontend. 
+I'm also specialized as a **`MERN & Next.js Full Stack Developer`**, **`React Native`** mobile developer, and a **`DevOps`** + **`Blockchain`** enthusiast.
 
 <p align="left" style="display: flex; gap: 20px; flex-wrap: wrap;">
   <a href="https://portfolio-phi-pearl-u5u3mennpf.vercel.app/" target="_blank">
@@ -31,7 +30,7 @@ Additionally, I experiment with **AI Agents** and leverage creative libraries su
 | Main Languages          | Frontend        | Mobile       | Backend           | Databases            | Blockchain          | DevOps                                                  |
 | ----------------------- | --------------- | ------------ | ----------------- | -------------------- | ------------------- | ------------------------------------------------------- |
 | JavaScript • TypeScript | Next.js • React | React Native | Node.js • Express | MongoDB • PostgreSQL | Ethereum • Solidity | Docker • Kubernetes • Vagrant • Terraform • Git • Linux |
-
+| Java • C#               | Angular         |              | Spring Boot       |
 ---
 
 ## 📊 GitHub Stats

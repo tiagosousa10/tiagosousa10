@@ -2,7 +2,7 @@
 
 **`Full-Stack & Smart Contract Developer`**
 
-I'm a **`Junior Full Stack Developer`** focused on **`Java`**, **`JavaScript`**, and **`TypeScript`**. 
+I'm a **`Full Stack Developer`** focused on **`Python`**, **`JavaScript`**, and **`TypeScript`**. 
 I work with **`Spring Boot`** and **`Node.js`** on the backend, and with **`Angular`**, **`React`**, and **`Next.js`** on the frontend. 
 I'm also specialized as a **`MERN & Next.js Full Stack Developer`**, **`React Native`** mobile developer, and a **`DevOps`** + **`Blockchain`** enthusiast.
 

@@ -48,26 +48,7 @@
 │ [ OK ] Creative process running                              │
 │ [ &gt;&gt; ] Ready to build what comes next_                       │
 ├──────────────────────────────────────────────────────────────┤
-│ 01 / IDENTITY                         $ cat identity.txt     │
-├──────────────────────────────────────────────────────────────┤
-│                                                              │
-│ I&#x27;m Tiago Sousa, a Full Stack Developer focused on Python,   │
-│ JavaScript, and TypeScript.                                  │
-│                                                              │
-│ I build backends with Spring Boot and Node.js, and frontends │
-│ with Angular, React, and Next.js.                            │
-│                                                              │
-│ I specialize in MERN &amp; Next.js full-stack development and    │
-│ build mobile applications with React Native.                 │
-│                                                              │
-│ I&#x27;m also a DevOps + Blockchain enthusiast, exploring         │
-│ infrastructure, smart contracts, and Python AI agents.       │
-│                                                              │
-│ Cybersecurity is part of my focus: understanding attack      │
-│ surfaces and building safer applications.                    │
-│                                                              │
-├──────────────────────────────────────────────────────────────┤
-│ 02 / LOADED MODULES                   $ tree ./stack         │
+│ 01 / LOADED MODULES                   $ tree ./stack         │
 ├──────────────────────────────────────────────────────────────┤
 │                                                              │
 │ stack/                                                       │
@@ -96,49 +77,17 @@
 │ │                                                            │
 │ └── cybersecurity/                                           │
 │     └─ Application / API / Infrastructure security           │
-│        Focus areas detailed below                            │
+│        OWASP / Secure code / Access control                  │
 │                                                              │
 ├──────────────────────────────────────────────────────────────┤
-│ 03 / CYBERSECURITY                    $ cat security.scope   │
-├──────────────────────────────────────────────────────────────┤
-│                                                              │
-│ FOCUS AREAS / SECURITY BY DESIGN                             │
-│                                                              │
-│ ┌─ 01  APPLICATION SECURITY                                  │
-│ │  Web &amp; API security / OWASP Top 10                         │
-│ └─ Input validation / Injection prevention                   │
-│                                                              │
-│ ┌─ 02  SECURE DEVELOPMENT                                    │
-│ │  Secure code review / Dependency security                  │
-│ └─ Secrets management / Security headers                     │
-│                                                              │
-│ ┌─ 03  IDENTITY &amp; ACCESS                                     │
-│ │  Authentication / Authorization / RBAC                     │
-│ └─ Least privilege / Session security                        │
-│                                                              │
-│ ┌─ 04  NETWORK &amp; INFRASTRUCTURE                              │
-│ │  Network fundamentals / Linux hardening                    │
-│ └─ Container security / TLS                                  │
-│                                                              │
-│ ┌─ 05  THREAT MODELING                                       │
-│ │  Attack surfaces / Trust boundaries                        │
-│ └─ Risk assessment / Security logging                        │
-│                                                              │
-│ ┌─ 06  SMART CONTRACT SECURITY                               │
-│ │  Access control / Reentrancy                               │
-│ └─ Contract logic / On-chain risk                            │
-│                                                              │
-│ PRINCIPLE: verify inputs. limit access. protect data.        │
-│                                                              │
-├──────────────────────────────────────────────────────────────┤
-│ 04 / CONNECTIONS                      $ ls ./links           │
+│ 02 / CONNECTIONS                      $ ls ./links           │
 ├──────────────────────────────────────────────────────────────┤
 │                                                              │
 │ <a href="https://portfolio-phi-pearl-u5u3mennpf.vercel.app/">↗ PORTFOLIO</a>    /    Explore my work                          │
 │ <a href="https://www.linkedin.com/in/tiago-sousa10/">↗ LINKEDIN</a>     /    Connect with me                          │
 │                                                              │
 ├──────────────────────────────────────────────────────────────┤
-│ 05 / PROCESS                          $ tail -f mindset.log  │
+│ 03 / PROCESS                          $ tail -f mindset.log  │
 ├──────────────────────────────────────────────────────────────┤
 │                                                              │
 │ [ learn ] Stay curious.                                      │

@@ -3,11 +3,10 @@
 <div align="center">
 
 <pre>
-
 ┌──────────────────────────────────────────────────────────────┐
 │                    T I A G O   S O U S A                     │
-│            FULL-STACK & SMART CONTRACT DEVELOPER             │
-│    CYBERSECURITY / APPLICATION & INFRASTRUCTURE SECURITY     │
+│            FULL-STACK &amp; SMART CONTRACT DEVELOPER             │
+│    CYBERSECURITY / APPLICATION &amp; INFRASTRUCTURE SECURITY     │
 └──────────────────────────────────────────────────────────────┘
 
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡀⢄⠤⢒⢑⢅⠕⡅⡕⡕⣒⣄⡀⡀⢀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
@@ -47,9 +46,41 @@
 │ [ OK ] Technology modules mounted                            │
 │ [ OK ] Cybersecurity focus loaded                            │
 │ [ OK ] Creative process running                              │
-│ [ >> ] Ready to build what comes next_                       │
+│ [ &gt;&gt; ] Ready to build what comes next_                       │
 ├──────────────────────────────────────────────────────────────┤
-│ 01 / LOADED MODULES                    ls ./links           │
+│ 01 / LOADED MODULES                   $ tree ./stack         │
+├──────────────────────────────────────────────────────────────┤
+│                                                              │
+│ stack/                                                       │
+│ ├── languages/                                               │
+│ │   └─ JavaScript / TypeScript / Python                      │
+│ │      AI Agents                                             │
+│ │                                                            │
+│ ├── frontend/                                                │
+│ │   └─ Next.js / React / Angular                             │
+│ │                                                            │
+│ ├── mobile/                                                  │
+│ │   └─ React Native                                          │
+│ │                                                            │
+│ ├── backend/                                                 │
+│ │   └─ Node.js / Express / Spring Boot                       │
+│ │                                                            │
+│ ├── databases/                                               │
+│ │   └─ MongoDB / PostgreSQL / MySQL                          │
+│ │                                                            │
+│ ├── blockchain/                                              │
+│ │   └─ Ethereum / Solidity                                   │
+│ │                                                            │
+│ ├── devops/                                                  │
+│ │   └─ Docker / Kubernetes / Vagrant                         │
+│ │      Terraform / Git / Linux                               │
+│ │                                                            │
+│ └── cybersecurity/                                           │
+│     └─ Application / API / Infrastructure security           │
+│        OWASP / Secure code / Access control                  │
+│                                                              │
+├──────────────────────────────────────────────────────────────┤
+│ 02 / CONNECTIONS                      $ ls ./links           │
 ├──────────────────────────────────────────────────────────────┤
 │                                                              │
 │ <a href="https://portfolio-phi-pearl-u5u3mennpf.vercel.app/">↗ PORTFOLIO</a>    /    Explore my work                          │
@@ -67,10 +98,8 @@
 └──────────────────────────────────────────────────────────────┘
 
 ┌──(tiagosousa10@github)-[~/next-idea]
-└─$ git commit -m "build what comes next" ▌
-
+└─$ git commit -m &quot;build what comes next&quot; ▌
 </pre>
-
 </div>
 
 <div align="center">
@@ -84,10 +113,8 @@
 <br /><br />
 
 <img width="390" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tiagosousa10&amp;theme=github_dark&amp;title_color=39ff88&amp;text_color=c9d1d9&amp;bg_color=0d1117&amp;border_color=30363d&amp;chart_color=39ff88&amp;animation=load&amp;duration=3" alt="Repository distribution by programming language" />
-
 <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=tiagosousa10&amp;background=0D1117&amp;border=30363D&amp;stroke=30363D&amp;ring=39FF88&amp;fire=39FF88&amp;currStreakNum=C9D1D9&amp;sideNums=C9D1D9&amp;currStreakLabel=39FF88&amp;sideLabels=C9D1D9&amp;dates=8B949E" alt="Tiago Sousa's GitHub contribution streak" />
 
 <br /><br />
 
 </div>
-
